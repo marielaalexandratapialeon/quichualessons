@@ -1,0 +1,6 @@
+{
+  "name": "Yachakuna Kichwa - Aprende Kichwa del Ecuador",
+  "description": "Aprende vocabulario en Kichwa unificado del Ecuador con pronunciación de audio, ilustraciones visuales, categorías temáticas y pruebas interactivas de práctica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
